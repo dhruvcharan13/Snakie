@@ -1,6 +1,6 @@
-# Snake Game
+# Snakie
 
-This project is a JavaScript implementation of the classic game Snake.
+I'm just having fun this project is a super old-school JavaScript implementation of the classic game Snake.
 
 ## How to Play
 
